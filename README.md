@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on Projects
 
+[![Codewars](https://www.codewars.com/users/yodanakyne/badges/large)](https://www.codewars.com/users/yodanakyne)
+
 ### Skills
 
 
