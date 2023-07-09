@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🌍  I'm based in France
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning C# .NET Core
 * 🤝  I'm open to collaborating on Projects
 
 [![Codewars](https://www.codewars.com/users/yodanakyne/badges/large)](https://www.codewars.com/users/yodanakyne)
