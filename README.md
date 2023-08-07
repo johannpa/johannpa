@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * 🤝  I'm open to collaborating on Projects
 
 [![Codewars](https://www.codewars.com/users/yodanakyne/badges/large)](https://www.codewars.com/users/yodanakyne)
+<br />
 
 ### Skills
 <hr>
@@ -40,12 +41,13 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
-
+<br />
 
 ### Socials
 <hr>
 
 <p align="left"> <a href="https://www.github.com/johannpa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johann-paque-devweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<br />
 
 ### 📊 Github Profile Stats
 <hr>
