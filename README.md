@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://www.github.com/johannpa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johann-paque-devweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-## 📊 Github Profile Stats
+### 📊 Github Profile Stats
 <br />
 <p align="center">
 <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=johannpa&show_icons=true&theme=dracula&hide_border=true" align = "center"/>
