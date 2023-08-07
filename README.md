@@ -55,6 +55,3 @@ Here are some ideas to get you started:
 <p align="center">
 <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannpa&show_icons=true&theme=dracula&locale=en&hide_border=true" align = "center"/>
 </p>
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/johannpa"><img src="https://github-readme-stats.vercel.app/api?username=johannpa&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="johannpa's GitHub stats" /></a>
