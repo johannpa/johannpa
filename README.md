@@ -1,5 +1,7 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+ I'm + Johann" alt="Typing SVG" /></a>
 
+<br />
+
 <!--
 **johannpa/johannpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +23,7 @@ Here are some ideas to get you started:
 [![Codewars](https://www.codewars.com/users/yodanakyne/badges/large)](https://www.codewars.com/users/yodanakyne)
 
 ### Skills
+<br />
 
 
 <p align="left">
@@ -40,6 +43,7 @@ Here are some ideas to get you started:
 
 
 ### Socials
+<br />
 
 <p align="left"> <a href="https://www.github.com/johannpa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johann-paque-devweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
