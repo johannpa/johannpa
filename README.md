@@ -51,6 +51,12 @@ Here are some ideas to get you started:
 
 ### 📊 Github Profile Stats
 <hr>
-
+<p align="center">
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=johannpa&show_icons=true&theme=dracula&hide_border=true" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=johannpa&theme=dracula&border=61dafb&hide_border=true" align = "center"/>
+</p>
+<br />
+<p align="center">
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannpa&show_icons=true&theme=dracula&locale=en&hide_border=true" align = "center"/>
   
 </p>
